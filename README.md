@@ -112,7 +112,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/taki199/taki199/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
