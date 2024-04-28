@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Houcine Taki and I'm a  Full Stack developer</p>
+<p align="left">My name is Houcine Taki and I'm a  Full Stack developer.</p>
 
 ###
 
