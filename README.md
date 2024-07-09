@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🚀 Crafting digital realms since 2023 ✨<br>📚 Currently delving deep into the realms of Three.js and Next.js 🌟<br>🎯 Aspiring to master the art of Full Stack Web Development 🌐<br>🏔️ Fun fact: I once summited Mount Everest... in a virtual reality game! 🎮</p>
+<p align="left">🚀 Crafting digital realms since 2023 ✨<br>📚 Currently delving deep into the realms of  Next.js 🌟<br>🎯 Aspiring to master the art of Full Stack Web Development 🌐<br>🏔️ Fun fact: I once summited Mount Everest... in a virtual reality game! 🎮</p>
 
 ###
 
