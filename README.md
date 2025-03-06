@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I’m Houcine Taki, a passionate Full Stack Developer specializing in MERN Stack and Web3 Development. I love solving problems, building scalable solutions, and exploring new technologies.
+<p align="left">I’m Houcine Taki, a passionate Full Stack Developer specializing in Web & Mobile Development. I enjoy solving complex problems, building scalable applications, and exploring emerging technologies.
 </p>
 
 ###
@@ -11,7 +11,8 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on a Threejs Porject 🌟<br>💬 Ask me about React, Node.js, Express, MongoDB, and Web3. 🌐<br> 📫 How to reach me: houcine.taki21@gmail.com <br> 🏔️ Fun fact: I once summited Mount Everest... in a virtual reality game! 🎮</p>
+<p align="left">🔭 Currently working on: A Three.js project for interactive 3D experiences.🌟<br>💬Ask me about: Full Stack Development, Three.js, and building performant web apps.<br>
+💡 Tech Stack: React.js, Next.js, Node.js, Java, Spring Boot, MongoDB, Prisma ORM.. 🌐<br> 📫 How to reach me: houcine.taki21@gmail.com <br> 🏔️ Fun fact: I love exploring new frameworks just for fun! 🎮</p>
 
 ###
 
